@@ -1,3 +1,8 @@
+## 📖 Cheatsheet
+> **➡️ [Open the Assembly Cheatsheet →](https://assembly-ist.netlify.app/)**
+
+---
+
 # 🖥️ Complete Assembly Language Course
 ### Using DOSBox + NASM + AFD (Debugger)
 **Instructor Guide & Student Reference**
