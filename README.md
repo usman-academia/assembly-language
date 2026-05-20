@@ -1,5 +1,5 @@
 ## 📖 Cheatsheet and YouTube Video Course in Urdu/Hindi
-> **[Open the Assembly Cheatsheet →](https://assembly-ist.netlify.app/)**
+> **[Open the Assembly Cheatsheet](https://assembly-ist.netlify.app/)**
 
 > **[Assembly Language Full Course](https://www.youtube.com/watch?v=GCefp01AzCU&list=PLQR3mV3wWgCo47E18bpdsISc5mmpxnlwv "My Channel")**
 ---
